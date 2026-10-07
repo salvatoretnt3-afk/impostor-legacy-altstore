@@ -9,7 +9,7 @@
       "developerName": "Impostor Legacy",
       "subtitle": "VS IMPOSTOR LEGACY 1.3.1",
       "localizedDescription": "VS IMPOSTOR LEGACY, packaged for installation through AltStore.",
-      "iconURL": "https://YOUR-HOST/ImpostorLegacy-icon.png",
+      "iconURL": "https://raw.githubusercontent.com/salvatoretnt3-afk/impostor-legacy-altstore/main/ImpostorLegacy-icon.png",
       "category": "games",
       "versions": [
         {
